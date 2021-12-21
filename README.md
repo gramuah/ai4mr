@@ -14,3 +14,5 @@ This repository includes the codes and data to reproduce the experiments detaile
   year	= {2021}
 }
 ```
+## Data sample
+The data sample detailed in the paper can be found in the folder `data`.
