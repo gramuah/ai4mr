@@ -26,3 +26,15 @@ Simply run the script with the following command:
 python3 mr_estimation_train_test.py
 ```
 By default, the script trains and evaluates all the AI models detailed in the paper for the stellar mass.
+
+To generate the AI models for the stellar radius, uncomment [line 204 of mr_estimation_train_test.py](https://github.com/gramuah/ai4mr/blob/d7dde2eb7991f43af188a9c220cc718d21b4560d/mr_estimation_train_test.py#L204) (and comment line 203).
+
+### Reproducing the plots included in the paper
+For reproducing the plots included in the paper we provide script [mr_estimation_paper_plots.py](mr_estimation_paper_plots.py).
+
+### Generalization experiment
+The generalization experiment can be reproduced running the script [mr_estimation_generalization.py](mr_estimation_generalization.py).
+
+### Features influence
+For the discussion about the features influence provided in the paper, the results can be reproduced running the script [mr_estimation_features_influence.py](mr_estimation_features_influence.py).
+
