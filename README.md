@@ -6,12 +6,12 @@ This repository includes the codes and data to reproduce the experiments detaile
   author  = {A. Moya and R.~J. {L\'opez-Sastre}},
   title   = {Stellar mass and radius estimation using Artificial Intelligence},
   journal = {Astronomy & Astrophysics},
-  pages = {--},
-  volume = {Under review},
+  pages = {1--10},
+  volume = {Published online},
   number = {},
   issn = {0004-6361},
-  doi = {},
-  year	= {2021}
+  doi = {https://doi.org/10.1051/0004-6361/202142930},
+  year	= {2022}
 }
 ```
 ## Data sample
